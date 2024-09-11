@@ -49,7 +49,7 @@ round-avatar: true
 social-network-links:
   email: "takasaki@zetadivision.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  # facebook: deanattali
   # github: daattali
   twitter: zetadivision
   # patreon: DeanAttali
