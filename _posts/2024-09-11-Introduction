@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Introducing the ZETA DIVISION App
-gh-repo: daattali/beautiful-jekyll
-tags: [test]
+title: Introducing ZETA DIVISION App
+subtitle: 
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: []
+author: ZETA DIVISION
 ---
-
 
 
 ## About Us
